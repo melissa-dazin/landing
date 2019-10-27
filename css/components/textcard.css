@@ -1,0 +1,15 @@
+.textcards{
+	display: flex;
+	flex-wrap: wrap;
+
+}
+
+.textcard{
+	display: flex;
+	margin: 20px;
+	text-align: justify;
+	align-items: center;
+	padding: 20px;
+	justify-content: space-between;
+	size: 50px;
+}
